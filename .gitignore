@@ -1,6 +1,9 @@
-.DS_Store
-.AppleDouble
-.LSOverride
+.idea/
+dataset/movies_large/
+.gitignore
+spark-warehouse
+*.pyc
+__pychache__
 
 # Thumbnails
 ._*
