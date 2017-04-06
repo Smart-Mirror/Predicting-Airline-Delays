@@ -17,7 +17,7 @@ Using Hadoop predicting the airline delays from O'Hare airport with data from 20
 
 2. Using PIG and Python to prepare the feature matrix from the raw data. We perform 3 iterations. With each iteration, we improve our feature set, resulting in better overall predictive performance. For example, in the 3rd iteration, we enrich the input data with weather information, resulting in predictive features such as temperature, snow conditions, or wind speed.
 
-3. Using Python’s Scikit-learn, we build various models, such as Logistic Regression or Random Forest. The feature matrix fits in memory.
+3. Using Python’s Scikit-learn, we build various models, such as Logistic Regression or Random Forest.
 
 4. Using Scikit-learn, we evaluate performance of the models and compare between iterations.
 
