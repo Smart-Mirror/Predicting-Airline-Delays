@@ -2,6 +2,15 @@
 
 Using Hadoop predicting the airline delays from O'Hare airport with data from 2007 and 2008. Using Pig scripts, built a feature matrix with which we train and predict the airline delay with an accuracy of about 80%
 
+
+#### Project Details
+
+- Built a model for predicting the airline delays with an accuracy of ~80%
+- Used the airline dataset with 7.4M flight records from the UCI Repo
+- Utilized Pydoop for implementing MapReduce to build the feature matrix
+- Used Pig scripts to generate the features
+- Built using Python, Scikit-Learn, Pig, Hadoop, HDFS, AWS EMR, IPython
+
 #### Specifications
 
 - Python 2.7
